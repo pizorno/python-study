@@ -1,0 +1,5 @@
+name = input("Digite seu nome: ")
+age = int(input("Digite sua idade: "))
+print("Oi " + name)
+print("Seu nome possui ", len(name), " letras")
+print("Em 5 anos você terá ", age + 5, " anos.")
